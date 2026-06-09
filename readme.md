@@ -1,4 +1,4 @@
-# READM.ME
+# PRISMA 7, EXPRESS JS, MYSQL/MARIADB
 
 
 Struktur Folder
@@ -48,5 +48,5 @@ npx prisma generate
 
 ## PUDIN SAEPUDIN
 * [Italazhar](https://italazhar.com)
-* [Telegram](https://t.me/pudin.ira)
+* [Telegram](https://t.me/pudin_ira)
 * [Instagram](https://instagram.com/pudin.ira)
