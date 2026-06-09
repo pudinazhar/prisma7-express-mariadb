@@ -7,6 +7,10 @@ express-prisma7-mysql/
 ├── generated/            
 ├── node_modules/
 ├── prisma/
+│   ├── migrations/
+│   ├── posts.prisma
+│   ├── scheme.prisma
+│   └── user.prisma
 ├── src/
 │   ├── lib/              
 │   │   └── prisma.js
